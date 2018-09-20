@@ -67,10 +67,11 @@ Mod1 F2 :Exec fbrun
 Mod1 F3 :Exec firefox
 
 # open Thunderbird
-Mod1 F5 :Exec thunderbird
+# Mod1 F5 :Exec thunderbird
 
 # open PCManFM
-Mod1 F6 :Exec pcmanfm
+#Mod1 F6 :Exec pcmanfm
+Mod1 F6 :Exec nautilus
 
 # open Notational Velocity Python
 Mod1 F7 :Exec nvpy
@@ -97,7 +98,6 @@ Mod1 F11 :MaximizeWindow
 107 :Exec springseed
 118 :Exec remarkable
 Mod1 118 :Exec haroopad
-Mod1 107 :Exec vivaldi
 
 #127 :Exec nvpy
 #127 :Exec stopwatch
@@ -208,21 +208,26 @@ Control Mod1 56 :Exec x-terminal-emulator -m -l bitacora -T Bitacora
 # -b: borless
 # -l: layout
 # -T: sets the title
-Control Mod1 26 :Exec emacs 
-Control Mod1 29 :Exec /opt/extras.ubuntu.com/utext/bin/utext 
-Control Mod1 32 :Exec pyroom 
+Control Mod1 26 :Exec emacs
+Control Mod1 42 :Exec formiko
+Control Mod1 29 :Exec typora
+Control Mod1 32 :Exec pyroom
 Control Mod1 38 :Exec atom
 Control Mod1 39 :Exec synapse
 Control Mod1 40 :Exec leafpad
 Control Mod1 41 :Exec firefox
-Control Mod1 43 :Exec chromium-browser
 Control Mod1 45 :Exec alarmclock
 Control Mod1 53 :Exec bin/scripts/fluxbox/xmind_fluxbox.sh
-Control Mod1 55 :Exec vivaldi
-Control Mod1 58 :Exec /opt/Telegram/Telegram
+Control Mod1 47 :Exec bin/scripts/fluxbox/firefox_dev.sh
+Control Mod1 55 :Exec virtualbox
 Control Mod1 57 :Exec ninja-ide
+Control Mod1 58 :Exec /opt/Telegram/Telegram/Telegram
 Control Mod1 29 :Exec audacity
 Control Mod1 32 :Exec libreoffice
-Control Mod1 27 :Exec Remember\ The\ Milk
+Control Mod1 27 :Exec /opt/Remember\ The\ Milk/rememberthemilk
 Control Mod1 46 :Exec fluxgui
-Control Mod1 30 :Exec silentcast
+Control Mod1 30 :Exec peek
+Control Mod1 33 :Exec shutter
+Control Mod1 52 :Exec uzbl
+Control Mod1 44 :Exec ~/bin/scripts/fluxbox/joplin.sh
+

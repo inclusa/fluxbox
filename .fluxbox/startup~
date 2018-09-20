@@ -33,7 +33,7 @@ calendar.sh &
 glipper &
 # alarmclock &
 # synapse &
-#setxkbmap es -variant ca &
+setxkbmap es -variant ca &
 
 # And last but not least we start fluxbox.
 # Because it is the last app you have to run it with ''exec'' before it.

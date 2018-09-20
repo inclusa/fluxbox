@@ -1,2 +1,3 @@
-$full $full|/usr/share/backgrounds/debian_8.png||:0.0
 $full $full|/usr/share/backgrounds/debian_8.png||:1.0
+fbsetroot|-foreground #19202F -background #2c001e -solid #19202F|style|:2.0
+$full $full|/home/alfons/Imatges/background/fluxbox.png||:0.0

@@ -2,4 +2,4 @@
 
 Configuració específica d'aquest entorn.
 
-![Fluxbox](fluxbox.png)
+![Fluxbox](fluxbox_.png)
